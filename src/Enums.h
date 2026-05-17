@@ -47,5 +47,3 @@ inline bool canTransition(TaskStatus from, TaskStatus to) {
         default:                      return false;
     }
 }
-
-//coment
