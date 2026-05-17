@@ -76,5 +76,3 @@ public:
              + (isOverdue() ? " ЗАКЪСНЯЛ" : "");
     }
 };
-
-//coment
