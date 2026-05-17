@@ -44,3 +44,5 @@ public:
              + " промени " + field + ": " + oldValue + " -> " + newValue;
     }
 };
+
+//coment
