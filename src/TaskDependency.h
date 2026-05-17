@@ -24,5 +24,3 @@ public:
         return blockerTask->getTitle() + " блокира " + blockedTask->getTitle();
     }
 };
-
-//comment
