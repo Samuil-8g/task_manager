@@ -53,5 +53,3 @@ public:
              + " | Следващо: "   + nextDueDate;
     }
 };
-
-// comment
