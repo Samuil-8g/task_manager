@@ -119,3 +119,5 @@ public:
              + " | изп: " + asgn + over;
     }
 };
+
+//comment
