@@ -47,3 +47,5 @@ public:
     // Чисто виртуален метод – всеки наследник имплементира своята валидация
     virtual bool validate() const = 0;
 };
+
+// coment coment coment
