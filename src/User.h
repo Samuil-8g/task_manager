@@ -35,5 +35,3 @@ public:
         return username + " (" + fullName + ")";
     }
 };
-
-//comment
